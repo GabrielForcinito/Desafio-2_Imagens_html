@@ -24,3 +24,7 @@ Neste projeto pratiquei:
 - Uso da tag `<img>`
 - Caminho de arquivos (relativo)
 - Inserção de favicon
+
+👨‍💻 Autor
+
+Gabriel Forcinito
